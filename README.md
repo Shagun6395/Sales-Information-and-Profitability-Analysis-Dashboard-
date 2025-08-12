@@ -12,5 +12,12 @@ Time-based Trend Analysis – View monthly, quarterly, and yearly performance tr
 Filter & Drill-Down Options – Explore detailed insights with category and region filters.
 KPI Monitoring – Track key metrics like sales targets, profit ratios, and returns.
 
+Tools and Technologies:
+Power BI – For creating interactive dashboards and visualizations.
+Microsoft Excel / CSV – Data source for importing and cleaning raw sales data.
+DAX (Data Analysis Expressions) – For creating calculated columns, measures, and KPIs.
+Power Query – For data transformation and preprocessing.
+Data Modeling – To establish relationships between sales, customers, products, and regions.
+
 
 Image-https://github.com/Shagun6395/Sales-Information-and-Profitability-Analysis-Dashboard-/blob/main/Snapshot_of%20_dashboard.png
