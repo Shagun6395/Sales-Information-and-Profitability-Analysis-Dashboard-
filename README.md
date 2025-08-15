@@ -1,5 +1,6 @@
 ## Sales-Information-and-Profitability-Analysis-Dashboard
 
+[CLICK HERE TO ACCESS DATA](https://github.com/Shagun6395/Sales-Information-and-Profitability-Analysis-Dashboard-/blob/main/orders.xlsx)
 
 ## Overview
 This **Power BI** dashboard offers a detailed analysis of sales and profitability using data from a single table called "Orders." The table includes various columns such as Category, City, Country, Region, Customer ID, Customer Name, Discount, Order Date, Order ID, Order Count, Postal Code, Product ID, Product Name, Profit, Profit Margin, Quantity, Sales, and more.
