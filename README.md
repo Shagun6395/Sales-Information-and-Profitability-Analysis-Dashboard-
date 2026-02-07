@@ -1,4 +1,8 @@
 ## Sales-Information-and-Profitability-Analysis-Dashboard
+**Tech Stack:** PostgreSQL | SQL | Power BI
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-blue)
+
 
 [CLICK HERE TO ACCESS DATA](https://github.com/Shagun6395/Sales-Information-and-Profitability-Analysis-Dashboard-/blob/main/orders.xlsx)
 
