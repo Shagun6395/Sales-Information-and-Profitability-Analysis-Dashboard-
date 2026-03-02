@@ -1,6 +1,9 @@
 ## Sales-Information-and-Profitability-Analysis-Dashboard
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
 ![SQL](https://img.shields.io/badge/SQL-blue)
+![EDA](https://img.shields.io/badge/EDA-Exploratory-success)
+
+
 
 
 
